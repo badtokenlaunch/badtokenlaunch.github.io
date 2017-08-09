@@ -1,1 +1,30 @@
 ### A list of unfriendly token launches with details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please feel free to add to [list](https://github.com/badtokenlaunch/badtokenlaunch.github.io) as needed 
