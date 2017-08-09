@@ -1,3 +1,4 @@
 - To create a new page, click : New file in the main [repository](https://github.com/badtokenlaunch/badtokenlaunch.github.io/new/master)
 - Change the page name to the name of the token launch
 - Add details utilizing [markdown format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- Create a  pull request 
