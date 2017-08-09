@@ -27,4 +27,4 @@
 
 
 
-Please feel free to add to [list](https://github.com/badtokenlaunch/badtokenlaunch.github.io) as needed 
+Please feel free to add to the [list](https://github.com/badtokenlaunch/badtokenlaunch.github.io) as needed. Create a pull request with details about the token launch and why it's bad. 
