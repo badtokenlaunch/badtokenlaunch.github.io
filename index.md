@@ -1,4 +1,4 @@
-### A list of unfriendly token launches with details
+## A list of unfriendly token launches with details
 - [Centra](/centra.md)
 
 
